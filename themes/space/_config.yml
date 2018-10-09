@@ -2,7 +2,6 @@
 navbar_brand:
 menu:
   Home: /
-  Archive: archive/
   About: /about
 
 # RSS
