@@ -1,0 +1,43 @@
+# Header
+navbar_brand:
+menu:
+  Home: /
+  Archive: archive/
+  About: /about
+
+# RSS
+rss:
+
+# Content
+favicon: /images/favicon.png
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+widgets:
+- about
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+about_widget_content:
+  <p>Practice does not make perfect. Only perfect practice makes perfect. - Vince Lombardi</p>
+
+# Widgets
+archive_type: 'monthly'
+show_count: true
+
+# Meta Maker
+title_divider:
+twitter_creator:
+twitter_site:
+google_plus:
+fb_personal_id: ""
+fb_page_id:
+fb_admins:
+fb_app_id:
+og_image_url: ""
+
+# Analytics
+google_analytics:
