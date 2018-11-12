@@ -1,7 +1,7 @@
 ---
-title: The Effects of Smoking On the Throat
-date: 2018-8-31 15:00:00
-category: Stay Healthy
+title: The Effects Of Smoking On The Throat
+date: 2017-8-31 15:00:00
+category: stay healthy
 ---
 
 ![](/images/7.jpg)
