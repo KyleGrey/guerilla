@@ -1,7 +1,7 @@
 ---
 title: Greatest Rebuildable Atomizers (RDAs and RTAs)
-date: 2018-9-20 08:00:00
-category: Enhance Vape
+date: 2017-9-20 08:00:00
+category: vape upgrade
 ---
 
 ![](/images/1.jpg)
