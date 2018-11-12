@@ -1,7 +1,7 @@
 ---
-title: 10 Solutions To a Leaky Vape Tank
+title: 10 Solutions To A Leaky Vape Tank
 date: 2018-9-21 11:45:00
-category: Durable And Last Long
+category: durable and last long
 ---
 
 ![](/images/6.jpg)
