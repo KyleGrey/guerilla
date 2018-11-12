@@ -1,7 +1,7 @@
 ---
 title: Best 18650 Battery Chargers
 date: 2018-9-16 08:10:00
-category: Durable And Last Long
+category: durable and last long
 ---
 
 ![](/images/5.jpg)
