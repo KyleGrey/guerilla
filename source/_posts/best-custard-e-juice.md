@@ -1,7 +1,7 @@
 ---
 title: Best Custard E-Juice
 date: 2018-8-23 09:40:00
-category: Fusion E-Juice
+category: fusion e-juice
 ---
 
 ![](/images/3.jpg)
