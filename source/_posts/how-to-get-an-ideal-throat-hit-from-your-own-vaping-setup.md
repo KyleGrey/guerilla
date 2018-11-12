@@ -1,7 +1,7 @@
 ---
 title: How To Get An Ideal Throat Hit From Your Own Vaping Setup
-date: 2018-9-22 07:45:00
-category: Practice Makes Perfect
+date: 2017-9-22 07:45:00
+category: practice makes perfect
 ---
 
 ![](/images/8.jpg)
