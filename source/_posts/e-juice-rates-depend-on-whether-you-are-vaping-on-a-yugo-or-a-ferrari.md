@@ -1,7 +1,7 @@
 ---
-title: E-Juice Rates Depend On Whether You Are Vaping On a Yugo or a Ferrari
+title: E-Juice Rates Depend On Whether You Are Vaping On A Yugo Or A Ferrari
 date: 2018-9-29 11:30:00
-category: Fusion E-Juice
+category: fusion e-juice
 ---
 
 ![](/images/4.jpg)
